@@ -1,8 +1,8 @@
 # Hi there 👋
 ## About Me
-- 💻 I’m currently studying Bachelor of Science at The University of Melbourne
-- 🌱 Always looking for new opportunities to expand my knowledge
-- 💞️ Interested in data science
+- 💻 I’m currently studying Master of Data Science at The University of Melbourne
+- 🌱 Always looking for new opportunities to develop my knowledge
+- 💞️ Interested in researching
 - 🦾 Strong work ethic
 
 ## Connect with me:
